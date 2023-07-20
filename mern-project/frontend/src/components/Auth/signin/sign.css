@@ -1,0 +1,17 @@
+.sign-main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign-main div
+{
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 30px;
+}
+.sign-main div button
+{
+    margin-top: 10px;
+}
